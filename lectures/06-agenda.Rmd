@@ -1,0 +1,213 @@
+---
+title: "Agenda"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["default", "css/mcn-slides.css", "css/ath-inferno-fonts.css", "css/animate.css"]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      navigation:
+        scroll: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE, 
+                      fig.retina = 3, fig.align = "center")
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_webcam()
+```
+
+.pull-left[
+# Agenda Setting <br> Multiple Streams Approach 
+<figure>
+  <img src="sticker.jpg" width="%">
+</figure>
+]
+
+.pull-right[
+
+</br>
+</br>
+</br>
+**EVSS-PUBA 602: Public Policy**
+
+**Fall 2021**
+
+.light[Matthew Nowlin, PhD<br>
+Department of Political Science<br>
+College of Charleston
+]
+
+]
+
+---
+
+class: center, middle
+
+# Why do we need government action (policy)? 
+
+---
+
+class: center, middle
+
+# Sometimes markets fail 
+
+---
+
+class: title title-1
+
+# Market Failures 
+
+
+* Insufficient competition 
+
+* Asymmetric information 
+
+* Externalities 
+  * _Negative_: Social cost $>$ Private cost
+
+* Types of goods 
+
+---
+
+class: title title-1
+
+# Types of Goods 
+
+<figure>
+<center>
+  <img src="img/goods.jpg" width="%">
+</figure>
+
+---
+
+class: center, middle 
+
+# There are also other reasons for government action (policy) 
+
+---
+
+class: title title-1
+
+# Theorectical Antecedents
+
+.pull-left[
+**Agenda Setting**
+* Policymaking system 
+* Policy stages (cycle)
+* Pluralism (group theory)
+* Elitism
+]
+
+--
+
+.pull-right[
+**Multiple Streams Approach** 
+* _Garbage can model of organizational choice_
+  * Ambiguity, time constraints, problematic preferences, unclear technology, fluid participation, stream independence  
+
+]
+
+???
+Complex organizations are not _comprehensively rational_
+
+---
+
+class: center, middle
+
+# What are some of the major concepts associated with agenda setting?
+
+???
+_from the Birkland reading_
+agenda
+agenda-setting 
+agenda universe 
+systemic - institutional - decision 
+power (positive and negative)
+conditions and problems 
+indicators - focusing events
+causal stories
+---
+
+class: title title-1
+
+# Multiple Streams Approach (Framework)
+
+<br>
+<br>
+.large[**What aspect(s) of the policy process is it explaining?**] 
+
+---
+
+class: title title-1
+
+# Multiple Streams Approach (Framework)
+
+</br>
+</br>
+.large[**What concept(s) does the theory use to drive its explanations?**] 
+
+???
+assumptions
+ambiguity 
+time constraints 
+problematic preferences 
+unclear technology
+fluid participation
+stream independence 
+---
+
+class: title title-1
+
+# Multiple Streams Approach (Framework)
+
+</br>
+</br>
+.large[**Tell us about your article**] 
+
+---
+
+class: title title-1
+
+# Multiple Streams Approach (Framework)
+
+</br>
+</br>
+.large[**What have you learned about the policy process?**] 
+
+---
+
+class: title title-1
+
+# For Next Time 
+
+**Punctuated Equilibrium**
+
+_Readings_:
+* **Cairney**: [Punctuated Equilibrium Theory](https://paulcairney.wordpress.com/2013/10/29/policy-concepts-in-1000-words-punctuated-equilibrium-theory/)
+* __WS__ Chap 2: Baumgartner, Jones, and Mortensen, _Punctuated Equilibrium Theory: Explaining Stability and Change in Public Policymaking_.
+* _Find a peer-reviewed journal article using punctuated equilibrium_ 
+
+---
+
+class: title title-1
+
+# Group Exercise 
+
+* **Get in a group of _no more than four_** 
+
+* **Practice social distancing** 
+
+* **Pick a societal problem**
+
+* **Use what you learned _from the readings_ to devise a strategy to get that issue on the agenda**  
+
+* **Came back ready to discuss your problem and strategy with the class** 
+

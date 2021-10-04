@@ -36,7 +36,7 @@ xaringanExtra::use_webcam()
 </br>
 </br>
 </br>
-**EVSS-PUBA: Public Policy**
+**EVSS-PUBA 602: Public Policy**
 
 **Fall 2021**
 
