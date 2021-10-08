@@ -124,15 +124,23 @@ class: center, middle
 
 # What are some of the major concepts associated with agenda setting?
 
+.footnote[From the _Birkland_ chapter]
+
 ???
-_from the Birkland reading_
-agenda
-agenda-setting 
-agenda universe 
-systemic - institutional - decision 
+agenda: The list of things being discussed and sometimes acted upon by an institution, the news media, or the public at large
+
+agenda-setting: The process by which problems and alternative solutions gain or lose public and elite attention 
+
+agenda universe - systemic - institutional - decision 
+
 power (positive and negative)
+
 conditions and problems 
+
 indicators - focusing events
+
+symbols and stories
+
 causal stories
 ---
 
@@ -144,6 +152,8 @@ class: title title-1
 <br>
 .large[**What aspect(s) of the policy process is it explaining?**] 
 
+???
+agenda-setting
 ---
 
 class: title title-1
@@ -155,13 +165,12 @@ class: title title-1
 .large[**What concept(s) does the theory use to drive its explanations?**] 
 
 ???
-assumptions
-ambiguity 
-time constraints 
-problematic preferences 
-unclear technology
-fluid participation
-stream independence 
+five structucal components 
+* problem stream
+* policy stream 
+* politics stream 
+* policy window
+* policy entrepreneur 
 ---
 
 class: title title-1
