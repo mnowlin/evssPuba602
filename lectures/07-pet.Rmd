@@ -232,10 +232,11 @@ class: title title-1
 
 # For Next Time 
 
-.huge[**FALL BREAK**]
-
 <br>
-:(
+<br>
+
+<center>
+.huge[**FALL BREAK!!!!**]
 
 ---
 
