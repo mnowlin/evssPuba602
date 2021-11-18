@@ -199,6 +199,20 @@ _Readings_:
 
 ---
 
+class: title title-1 
+
+# Policy Report Part 3 
+
+**Policy alternatives**: _About 3 to 4 pages_ 
+
+* Come up with **three policy alternatives** to address your problem or issue 
+* Draw from other countries, states, cities, interest groups, think tanks, among others 
+* Include a brief discussion of the **causal model** of each alternative 
+* Include a couple of pros and cons for each alternative 
+* Use the Bardach and Patashnik book, pgs 21-31 (Step Three: Construct the Alternatives) as guidance 
+
+---
+
 class: center, middle 
 
 # Let's talk about your policy reports 
